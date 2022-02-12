@@ -6,7 +6,7 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Wagner-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wagner-C" height="40" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Wagner-C" height="40" width="40" src="https://discordapp.com/channels/940253777343168513/940253777343168517/942143456120303717">
   <img align="right" alt="Wagner-gif"  height="100" width="100" src="https://media.giphy.com/media/rlcDldt3EDrKZkmDLG/giphy.gif">
 
 </div>
