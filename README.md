@@ -6,9 +6,9 @@
 </div>
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Wagner-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wagner-C" height="40" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="right" alt="Wagner-gif"  height="100" width="100" src="https://media.giphy.com/media/rlcDldt3EDrKZkmDLG/giphy.gif">
+  <img align="right" alt="Wagner-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Wagner-C" height="40" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="left" alt="Wagner-gif"  height="100" width="100" src="https://media.giphy.com/media/rlcDldt3EDrKZkmDLG/giphy.gif">
 
 </div>
   
