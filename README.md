@@ -1,12 +1,18 @@
-## Olá, meu nome é Wagner
+## Apenas um estudante 
+
+ -✅  Atualmente no 2° período em Engenharia na UFRJ
+ -💻 Estudando Python e Ciência de Dados
+
+##
+
 <div align="center">
   <a href="https://github.com/wagaojr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagaojr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagaojr&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagaojr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagaojr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Wagner-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wagner-C" height="40" width="40" src="https://discordapp.com/channels/940253777343168513/940253777343168517/942143456120303717">
+  <img align="center" alt="Wagner-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="right" alt="Wagner-gif"  height="100" width="100" src="https://media.giphy.com/media/rlcDldt3EDrKZkmDLG/giphy.gif">
 
 </div>
