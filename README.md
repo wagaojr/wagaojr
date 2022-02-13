@@ -1,9 +1,8 @@
 ## Apenas um estudante 
 
  -✅  Atualmente no 2° período em Engenharia na UFRJ
- -💻 Estudando Python e Ciência de Dados
-
-##
+ 
+ -💻  Estudando Python e Ciência de Dados
 
 <div align="center">
   <a href="https://github.com/wagaojr">
