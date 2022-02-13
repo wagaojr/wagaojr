@@ -1,8 +1,8 @@
 ## Apenas um estudante 
 
- -✅  Atualmente no 2° período em Engenharia na UFRJ
- 
- -💻  Estudando Python e Ciência de Dados
+ - ✅  Atualmente no 2° período em Engenharia na UFRJ
+
+ - 💻  Estudando Python e Ciência de Dados
 
 <div align="center">
   <a href="https://github.com/wagaojr">
@@ -12,8 +12,9 @@
   
   <img align="center" alt="Wagner-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wagner-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Wagner-vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
   <img align="right" alt="Wagner-gif"  height="100" width="100" src="https://media.giphy.com/media/rlcDldt3EDrKZkmDLG/giphy.gif">
-
+ 
 </div>
 
 
