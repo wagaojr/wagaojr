@@ -1,6 +1,6 @@
 ## Apenas um estudante 
 
- - ✅  Atualmente no 2° período em Engenharia na UFRJ
+ - ✅  Atualmente no 4° período em Engenharia na UFRJ
 
  - 💻  Estudando Python e Ciência de Dados
 
