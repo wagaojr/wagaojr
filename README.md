@@ -2,8 +2,6 @@
 
  - ✅  Atualmente no 4° período em Engenharia na UFRJ
 
- - 💻  Estudando Python e Ciência de Dados
-
 <div align="center">
   <a href="https://github.com/wagaojr">
   <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api?username=wagaojr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
