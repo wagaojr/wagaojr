@@ -1,6 +1,7 @@
-## Apenas um estudante 
+## Olá, meu nome é Wagner.
 
- - ✅  Atualmente no 4° período em Engenharia na UFRJ
+ - ✅  Engenharia de controle e automação na UFRJ
+ - ✅  Desenvolvedor de software na UFRJ Nautilus
 
 <div align="center">
   <a href="https://github.com/wagaojr">
