@@ -1,4 +1,4 @@
-## Olá, meu nome é Wagner.
+## Wagner Junior 
 
  - ✅  Engenharia de controle e automação na UFRJ
  - ✅  Desenvolvedor de software na UFRJ Nautilus
