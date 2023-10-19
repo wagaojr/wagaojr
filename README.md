@@ -1,7 +1,7 @@
 ## Wagner Junior 
 
- - ✅  Engenharia de controle e automação na UFRJ
- - ✅  Desenvolvedor de software na UFRJ Nautilus
+ - ✅  Engenharia de Controle e Automação - UFRJ
+ - ✅  UFRJ Nautilus
 
 <div align="center">
   <a href="https://github.com/wagaojr">
@@ -22,7 +22,4 @@
 <div> 
   <a href = "mailto:wagnerjunior@poli.ufrj.br"><img align= "center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wagner-junior-404838210/" target="_blank"><img align= "center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/wagaojr/wagaojr/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
