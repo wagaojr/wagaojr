@@ -1,7 +1,6 @@
 ## Wagner Junior 
 
  - ✅  Engenharia de Controle e Automação - UFRJ
- - ✅  UFRJ Nautilus
 
 <div align="center">
   <a href="https://github.com/wagaojr">
